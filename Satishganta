@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Satish Kumar Ganta - Resume</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            background: #f4f4f4;
+            color: #333;
+            line-height: 1.6;
+        }
+        header {
+            background: #2c3e50;
+            color: white;
+            padding: 30px 20px;
+            text-align: center;
+        }
+        header h1 {
+            margin: 0;
+            font-size: 2.5em;
+        }
+        header p {
+            margin: 5px 0;
+        }
+        .container {
+            max-width: 900px;
+            margin: 20px auto;
+            background: white;
+            padding: 30px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        section {
+            margin-bottom: 40px;
+        }
+        h2 {
+            border-bottom: 2px solid #3498db;
+            padding-bottom: 5px;
+        }
+        a {
+            color: #3498db;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+        footer {
+            text-align: center;
+            padding: 20px;
+            font-size: 0.9em;
+            color: #777;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Satish Kumar Ganta</h1>
+    <p>Email: <a href="mailto:satishganta98@gmail.com">satishganta98@gmail.com</a> | 
+       <a href="https://www.linkedin.com/in/satish-kumar-ganta/" target="_blank">LinkedIn</a> | 
+       <a href="https://github.com/satishganta98" target="_blank">GitHub</a>
+    </p>
+</header>
+
+<div class="container">
+    <section>
+        <h2>Professional Summary</h2>
+        <p>MSc in Data Analytics with experience in Machine Learning, Data Analytics, and Business Intelligence. Skilled in Python, SQL, R, and data visualization tools like Tableau and Power BI. Passionate about applying data-driven solutions to solve business challenges.</p>
+    </section>
+
+    <section>
+        <h2>Skills</h2>
+        <p><strong>Languages:</strong> C, Java, Python, SQL, R</p>
+        <p><strong>Technologies & Tools:</strong> Docker, PowerBI, Tableau, PostgreSQL, Pandas, NumPy, TensorFlow, NLTK, PyTorch, Statistics, Machine Learning Models</p>
+    </section>
+
+    <section>
+        <h2>Work Experience</h2>
+        <h3>Machine Learning and Data Analytics Intern - Melmaa Tech, Hyderabad</h3>
+        <p><em>Jul 2022 – Jan 2023</em></p>
+        <ul>
+            <li>Developed machine learning models using Python, SQL, R for predictive analytics.</li>
+            <li>Built data pipelines and visualizations using Power BI and Tableau.</li>
+            <li>Worked on NLP applications using NLTK and performed statistical analysis.</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Education</h2>
+        <p><strong>MSc in Data Analytics</strong>, National College of Ireland, 2023-2024 (CGPA: 60.3/10)</p>
+        <p><strong>BTech in Computer Science and Engineering</strong>, Indian Institute of Industry Interaction Education and Research, 2018-2022 (CGPA: 70.3/10)</p>
+    </section>
+
+    <section>
+        <h2>Projects</h2>
+        <ul>
+            <li><strong>Stock Price Prediction:</strong> Comparative study of Bi-GRU, Transformer, Hybrid models on Google stock data.</li>
+            <li><strong>Advanced Text Analysis:</strong> LSTM-based sentiment analysis for drug reviews with 87% accuracy.</li>
+            <li><strong>Sentiment Mapping:</strong> Python & MongoDB pipeline for categorizing 100,000+ public reviews with 92% precision.</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Certificates</h2>
+        <ul>
+            <li>Python Certification – GUVI</li>
+            <li>Data Science Certification – Board Infinity</li>
+            <li>Tableau Specialist Certification – Udemy</li>
+        </ul>
+    </section>
+</div>
+
+<footer>
+    &copy; 2025 Satish Kumar Ganta | All Rights Reserved
+</footer>
+
+</body>
+</html>
